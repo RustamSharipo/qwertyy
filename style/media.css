@@ -1,0 +1,50 @@
+@media(max-width:1300px){
+    .nik{
+        margin-left: 110px;
+        margin-top: 220px;
+    }
+    .tea:first-child{
+        margin-left: 165px;
+    }
+}
+@media(max-width:1200px){
+    .tea:first-child{
+        margin-left: 165px;
+    }
+    .nik{
+        margin-left: 56px;
+        margin-top: 220px;
+    }
+    .long{
+        max-width: 500px;
+    }
+    .grot{
+        justify-content: center;
+    } 
+    .palms{
+        width: 549px;
+    }
+}
+@media(max-width:1150px){
+    .yura{
+        margin-left: -12px;
+    }
+    .klass{
+        max-width: 500px;
+    }
+}
+@media(max-width:1115px){
+    .tea:first-child{
+        margin-left: 100px;
+    }
+    .palmas{
+        justify-content: center;  
+    }
+    .palms_all{
+        margin-top: 30px;
+    }
+    .yura{
+        width: 400px;
+        height: 500px;
+    }
+}
